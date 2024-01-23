@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+    color: rgb(192, 167, 167);
+}
+.para{
+    
+   
+   width: 100px;
+   height: 100px;
+   border: 2px solid black;
+}
